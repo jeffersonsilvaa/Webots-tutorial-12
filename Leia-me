@@ -1,0 +1,5 @@
+Baixar o arquivo de pesos da Yolo no site: https://pjreddie.com/darknet/yolo/
+
+Ver o tutorial: https://towardsdatascience.com/object-detection-using-yolov3-and-opencv-19ee0792a420
+
+wget https://pjreddie.com/media/files/yolov3.weights
